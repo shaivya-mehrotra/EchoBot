@@ -2,6 +2,7 @@
   "name": "ecobot",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://shaivya-mehrotra.github.io/EchoBot",
   "type": "module",
   "scripts": {
     "dev": "vite",
