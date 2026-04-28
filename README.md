@@ -1,16 +1,39 @@
-# React + Vite
+# 🌿 EcoBot: Your Personal Sustainability Partner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+EcoBot is an AI-powered companion designed to help you track, analyze, and reduce your environmental footprint. 
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+Check out the live app here: [https://shaivya-mehrotra.github.io/EchoBot](https://shaivya-mehrotra.github.io/EchoBot)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
+- **AI Eco-Assistant**: Chat with an intelligent bot powered by Groq/Gemini for sustainability advice.
+- **Interactive Dashboard**: Track your carbon footprint, water usage, and energy consumption.
+- **Eco-Tracker**: Log your daily green activities and earn points.
+- **Gamified Experience**: Build streaks and earn rewards for eco-friendly habits.
+- **Responsive Design**: Beautiful, modern UI that works on all devices.
 
-## React Compiler
+## 🛠️ Tech Stack
+- **Frontend**: React 19, Vite, Tailwind CSS
+- **Animations**: Framer Motion
+- **Charts**: Chart.js
+- **AI**: Groq API / Google Gemini API
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📦 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shaivya-mehrotra/EchoBot.git
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-## Expanding the ESLint configuration
+## 🔑 Configuration
+To use the AI features, add your API key in the app's settings menu.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+Built with ❤️ for a greener planet.
